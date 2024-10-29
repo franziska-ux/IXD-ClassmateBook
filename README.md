@@ -8,6 +8,9 @@ An interactive and responsive website created to facilitate connections among st
 
 **Click-to-Copy Email:** Streamlines communication by allowing users to click and copy email addresses directly from profiles.
 
+**What we did:**
+Used dynamic data fetched from external APIs such as https://randomuser.me/ , https://api-ninjas.com/api/randomuser. 
+
 **Technologies Used** :
 
 HTML/CSS, JavaScript, Figma, VS Code, Insomnia, ChatGPT
