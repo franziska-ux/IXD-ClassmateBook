@@ -8,7 +8,8 @@ An interactive and responsive website created to facilitate connections among st
 
 **Click-to-Copy Email:** Streamlines communication by allowing users to click and copy email addresses directly from profiles.
 
-**Technologies Used**
+**Technologies Used** :
+
 HTML & CSS for the core structure and styling
 
 JavaScript for interactive elements, including the click-to-copy email feature
