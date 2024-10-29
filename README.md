@@ -10,11 +10,7 @@ An interactive and responsive website created to facilitate connections among st
 
 **Technologies Used** :
 
-HTML & CSS for the core structure and styling
-
-JavaScript for interactive elements, including the click-to-copy email feature
-
-Responsive Design to ensure the website is accessible and functional across various devices
+HTML/CSS, JavaScript, Figma, VS Code, Insomnia, ChatGPT
 
 **Group Member & Contributer**
 https://katherine-dao.webflow.io/
