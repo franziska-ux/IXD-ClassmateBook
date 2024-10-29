@@ -15,4 +15,4 @@ JavaScript for interactive elements, including the click-to-copy email feature
 
 Responsive Design to ensure the website is accessible and functional across various devices
 
-Figma for prototyping and wireframing (optional)
+
